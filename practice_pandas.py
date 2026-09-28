@@ -1,5 +1,4 @@
 import pandas as pd
-
 data = {
     "asset": ["USDC", "WETH", "DAI"],
     "supplied": [1000000, 2000000, 500000],
